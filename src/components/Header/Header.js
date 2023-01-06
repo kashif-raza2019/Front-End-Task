@@ -3,7 +3,7 @@ import React from 'react';
 import { Nav, Navbar } from 'react-bootstrap';
 import './header.css';
 
-const GITHUB_URL = "https://www.github.com/kashif-raza2019/";
+const GITHUB_URL = "https://github.com/kashif-raza2019/Front-End-Task";
 const README_FILE_URL = "https://github.com/kashif-raza2019/Front-End-Task/blob/main/README.md";
 const LINKEDIN_PROFILE_URL = "https://www.linkedin.com/in/kashif-raza-994232189/";
 
