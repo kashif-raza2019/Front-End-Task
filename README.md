@@ -14,7 +14,7 @@
 </ul><ul>
 <li>React</li>
 </ul><ul>
-<li>Netflify</li>
+<li>Netlify</li>
 </ul><h2>Setup</h2>
 <hr><p>The project is already published at this given link <a href="https://front-end-task-kashif.netlify.app/">Front-End-Task</a>.
 One can also download the zip file or clone this repo and in the directory use <code>npm i</code> after that start the application using <code>npm start</code> in the <a href="http://localhost:3000/">localhost:3000</a></p><h5>Steps</h5><ul>
