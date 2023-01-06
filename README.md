@@ -1,12 +1,46 @@
-# Getting Started with Create React App
+<h1>Front-End-Task</h1>
+<h2>Convin.AI [By Kashif Raza]</h2><p>This react application is a part of the assignment for the Internship position for Front-End Developer</p><h2>General Information</h2>
+<hr><ul>
+<li>This project is built using <code>npx create-react-app</code> which is showing a good example of redux, API fetching and demonstrating the data, using two API endpoints from <code>https://reqres.in/</code></li>
+</ul>
+<ul>
+<li>List User: <code>/api/users?page=2</code></li>
+<li>Single User: <code>/api/users/:id</code> Url Param: id [User Id]</li>
+</ul><h2>Technologies Used</h2>
+<hr><ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+</ul><ul>
+<li>React</li>
+</ul><ul>
+<li>Netflify</li>
+</ul><h2>Setup</h2>
+<hr><p>The project is already published at this given link <a href="https://front-end-task-kashif.netlify.app/">Front-End-Task</a>.
+One can also download the zip file or clone this repo and in the directory use <code>npm i</code> after that start the application using <code>npm start</code> in the <a href="http://localhost:3000/">localhost:3000</a></p><h5>Steps</h5><ul>
+<li>In terminal / bash use <code>git clone</code> / download this repo zip file and unzip it in the directory of your choice</li>
+</ul><ul>
+<li>Make sure to have npm installed in your local machine.</li>
+</ul><ul>
+<li>Run this command <code>npm install</code> this will install the required npm packages to be used by this application</li>
+</ul><ul>
+<li>then run <code>npm start</code> command which will start the application in localhost:3000</li>
+</ul><h2>Project Status</h2>
+<hr><p>Completed, Pending for assessment</p><h2>Acknowledgement</h2>
+<hr><ul>
+<li>This project is part of the Internship drive for the Frontend developer role @Convin.ai</li>
+</ul><h2>Contact</h2>
+<hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/kashif-raza-994232189/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://www.github.com/kashif-raza2019/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+#### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -14,7 +48,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+#### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
